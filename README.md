@@ -11,23 +11,11 @@ Enfin, il est possible d’installer les outils utiles à un technicien réseau,
 Ce projet nous sera utile, en tant qu’élève, mais aussi en tant que technicien confirmé, dans le futur.
 
 
-Le fonctionnement du groupe
+##Le fonctionnement du groupe
 
 Avec Tristan Jodry, nous avons décidé de s’attribuer les taches en fonction des facilités de chacun, tout en respectant un équilibre, en faisant 50%-50% du travail.
 Pour cela, voici notre répartition des taches :
 
-Valentin Kaldé :
-
-Partie 1, Mission 3
-Partie 2, Mission 1, 2, 3
-Partie 4 
-Partie 5 
-Tristan Jodry :
-
-Partie 1, Mission 1, 2, 4
-Partie 2, Mission 4
-Partie 3
-Partie 5 
 
 De mon côté, j’ai réalisé une bonne partie des outils réseaux, mais peu de base de donnée.
 Du sien, c’est plutôt l’inverse.
