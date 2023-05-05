@@ -34,7 +34,9 @@ Options :
 Si le superutilisateur change de mot de passe on peut modifier celui enregistré au démarrage du programme :
 
 ![mdp7 1](https://user-images.githubusercontent.com/126975568/236395358-8a441976-4900-4136-8fe0-6b63335edd27.png)
+
 ![mdp7 2](https://user-images.githubusercontent.com/126975568/236395365-dda89510-55aa-4567-9bef-d19b7962142d.png)
+
 ![mdp7 3](https://user-images.githubusercontent.com/126975568/236395376-99cb4d8c-8d7d-4a60-86bb-15081326bf99.png)
 
 De même en cas de changement de l'utilisateur mysql on peut le modifier :
