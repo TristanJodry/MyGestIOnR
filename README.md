@@ -10,3 +10,7 @@ Pour ma part j'ai développé la partie base de données ainsi que les options c
 La base de donnée consiste à regrouper toutes les informations (ID,Nom,IP,MAC,CIDR,Type) des PCs situé dans le parc, on a donc plusieurs options :
 
 ![1](https://user-images.githubusercontent.com/126975568/236394416-405ed635-0920-4619-88c8-2e57e50594e6.png)
+
+Il est possible d'ajouter des machines en rentrant les différentes informations :
+
+![ajout2](https://user-images.githubusercontent.com/126975568/236394642-503cd7c3-97e6-4ce0-9e00-0593bce15029.png)
