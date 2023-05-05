@@ -27,7 +27,7 @@ case $choix in
 	2 )
 		echo -e "Veuillez saisir le nouveau nom d'utilisateur"
 		read newsqluser
-		sed -i 's/'$oldsqluser'/'$newsqluser'/g' install/infobdd.sh
+		sed -i 's/'$oldsqluser'/'$newsqluser'/g' config.sh
 		echo -e "Veuillez saisir le mot de passe de $newsqluser"
 		read -s newsqlpass
 		sed -i 's/'$oldsqlpass'/'$newsqlpass'/g' install/infobdd.sh
