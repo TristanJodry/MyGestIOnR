@@ -49,5 +49,5 @@ Suite à cela on peut donc importer une BDD :
 
 ![ajout10](https://user-images.githubusercontent.com/126975568/236395879-7c02077c-2a01-40d2-8ac3-41203cd158e6.png)
 
-Enfin il est possible de réinitialiser complétement l'installation de myGestIOnR (en supprimant : la BDD, les infos enregistrés,  
+Enfin il est possible de réinitialiser complétement l'installation de myGestIOnR (en supprimant : la BDD ainsi que son utilisateur, les infos enregistrés,   
 
